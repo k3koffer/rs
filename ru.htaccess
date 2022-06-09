@@ -1,2 +1,4 @@
 RewriteEngine On
 RewriteRule ^index\.html$ / [R=301,L]
+RewriteRule ^info\.html$ / [R=301,L]
+RewriteRule ^contacts\.html$ / [R=301,L]
